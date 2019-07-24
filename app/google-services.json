@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "334041532468",
+    "firebase_url": "https://bsstt-c6a1d.firebaseio.com",
+    "project_id": "bsstt-c6a1d",
+    "storage_bucket": "bsstt-c6a1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:334041532468:android:60d7b70b3b172a7c",
+        "android_client_info": {
+          "package_name": "com.example.bsstt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "334041532468-ldeak8l6mpq7kfkpn4jj454t5d22n43u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr56kkHlaFOLOrkuKl-z6E8vw5FLBU3S4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "334041532468-ldeak8l6mpq7kfkpn4jj454t5d22n43u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
